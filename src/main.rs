@@ -24,7 +24,7 @@ fn request(url: hyper::Uri, good: bool) -> Request {
   "description": "New location received from VLR for IMSI='90143012345678912345', now attached to VLR='491720013095'.",
   "timestamp": "2017-10-26T07:28:00.000+0000",
   "event_type": {
-    "id": 6,
+    "id": 11,
     "description": "Update location"
   },
   "event_source": {
